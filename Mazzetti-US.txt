@@ -1,0 +1,5 @@
+
+				USER STORIES
+As a student, I want add the course to my favorite, so that I can receive e-mail notification.
+As a student, I want download the *courseware, so that I can study on them.
+As a professor, i want update the info area related of my course, so that I can stay students update.
