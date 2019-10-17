@@ -1,0 +1,7 @@
+DICTIONARY
+User: a generic person that isn’t register that can’t be able to access to the system.
+
+USER STORIES 
+As a *user, I want to be able to register like a student or professor, so that I can access to the system.
+As a student, I want upload the notes, so that I can help other students.
+As a professor i want see the notes that students upload, so that I can delete them.
