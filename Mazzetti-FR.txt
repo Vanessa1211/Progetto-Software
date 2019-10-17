@@ -1,0 +1,5 @@
+Functional Requirements
+
+The system shall provide two accounts, one for students and one for teachers.
+The system shall provide divided and ordered into courses that will be created by professors.
+The system shall allow users to upload and download images to users.
