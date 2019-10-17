@@ -1,0 +1,4 @@
+FUNCTIONAL REQUIREMENTS 
+1. The system shall notify the student by email when there is a new note.
+2. The system shall display the available notes divided by the name of the exam.
+3. The system shall provide professors to add new courseware about their course.
